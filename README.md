@@ -1,13 +1,13 @@
 - 👋 Hi, I’m Fola Oluwafemi
 - 👀 I’m interested in:
+    - Cross Platform app development with flutter
     - Hardware programming
     - embedded C
     - C++
-    - app development with flutter.
-- 🌱 I’m currently learning flutter.
 - 💞️ I’m looking to collaborate on projects with flutter and C++
 - 📫 How to reach me:
-    - Fola Oluwafemi(LinkedIn, facebook)
+    - Fola Oluwafemi(facebook)
+    - https://www.linkedin.com/in/fola-oluwafemi/
     - folaoluwafemi55@gmail.com
     - @popestrings (twitter).
 
