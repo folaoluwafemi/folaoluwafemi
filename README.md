@@ -1,15 +1,18 @@
-- 👋 Hi, I’m Fola Oluwafemi
+- 👋🏾 Hi, I’m Fola Oluwafemi
 - 👀 I’m interested in:
     - Cross Platform app development with flutter
     - Hardware programming
     - C++
+    - Dart ❤️
+- 🚫 I'm not interested in
+    - Javascript 🙅🏽
 - 💞️ I’m looking to collaborate on projects with flutter and C++
 - 📫 How to reach me:
     - Fola Oluwafemi(facebook)
     - https://www.linkedin.com/in/fola-oluwafemi/
     - folaoluwafemi55@gmail.com
     - @popestrings (twitter).
-    - 
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=folaoluwafemi&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 
@@ -26,7 +29,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=folaoluwafemi&theme=gruvbox" alt = "" /></a> </p>
 
-<p><img align="left" src="https://img.shields.io/twitter/url?style=social&url=https://twitter.com/popestrings" alt="folaoluwafemi" /></p>
+<!-- <p><a href="https://twitter.com/popestrings" target="_blank"><img align="left" src="https://img.shields.io/twitter/url?style=social&url=https://twitter.com/popestrings" alt="folaoluwafemi" /></a></p> -->
 
 
 <!---
