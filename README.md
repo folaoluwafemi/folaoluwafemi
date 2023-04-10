@@ -1,4 +1,4 @@
-- 👋🏾 Hi, I’m Fola Oluwafemi
+- 👋🏾 Hi, I’m Fola Oluwafemi aka **dart_god**
 - 👀 I’m interested in:
     - Cross Platform app development with flutter
     - Hardware programming
