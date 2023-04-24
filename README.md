@@ -8,9 +8,9 @@
     - Javascript 🙅🏽
 - 💞️ I’m looking to collaborate on projects with flutter and C++
 - 📫 How to reach me:
-    - Fola Oluwafemi(facebook)
+    - +2348169583715 (dartgod on Whatsapp) 
     - https://www.linkedin.com/in/fola-oluwafemi/
-    - folaoluwafemi55@gmail.com
+    - folaoluwafemi55@gmail.com (email)
     - @popestrings (twitter).
 
 
