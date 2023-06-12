@@ -2,11 +2,11 @@
 - 👀 I’m interested in:
     - Cross Platform app development with flutter
     - Hardware programming
-    - C++
+    - Backend development with dart & typescript
     - Dart ❤️
 - 🚫 I'm not interested in
     - Javascript 🙅🏽
-- 💞️ I’m looking to collaborate on projects with flutter and C++
+- 💞️ I’m looking to collaborate on projects with flutter and dart (server)
 - 📫 How to reach me:
     - [dartgod](https://wa.me/+2348169583715) (Whatsapp)
     - https://www.linkedin.com/in/fola-oluwafemi/
