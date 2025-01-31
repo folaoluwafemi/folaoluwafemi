@@ -4,14 +4,12 @@
     - Hardware programming
     - Backend development with dart & typescript
     - Dart ❤️
-- 🚫 I'm not interested in
-    - Javascript 🙅🏽
-- 💞️ I’m looking to collaborate on projects with flutter and dart (server)
+- 💞️ I’m looking to collaborate on projects with flutter and supabase or server side dart
 - 📫 How to reach me:
     - [dartgod](https://wa.me/+2348169583715) (Whatsapp)
     - https://www.linkedin.com/in/fola-oluwafemi/
     - folaoluwafemi55@gmail.com (email)
-    - @popestrings (twitter).
+    - @the_dartgod (twitter).
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=folaoluwafemi&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
