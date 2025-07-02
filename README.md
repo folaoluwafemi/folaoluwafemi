@@ -9,7 +9,7 @@
     - [dartgod](https://wa.me/+2348169583715) (Whatsapp)
     - https://www.linkedin.com/in/fola-oluwafemi/
     - folaoluwafemi55@gmail.com (email)
-    - @the_dartgod (twitter).
+    - @folabuilds (twitter).
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=folaoluwafemi&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
